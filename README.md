@@ -1,37 +1,40 @@
 # **Takım İsmi**
 
-Takım X
+Fourseasons
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Maşallah Demirhan Team Member/Developer
+- Melik Ahmet Kişi: Scrum Master
+- Emine Yalçın: Team Member/Developer
+- Ayse Merve Kook Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Our Bird--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+-  Flappy Bird oyunumuz insanların sürekli gerek seyahatte gerek işe giderken gerekse boş zamanlarında oynayarak eğlendiği keyifli vakit geçirdiği bir oyun türüdür. Bizler insanların deneyimlerinden yola çıkarak onları oyunda tutacak ve oynarken onların keyif almalarını sağlayacak şekilde dizayn etmeye odaklanacağız. Kademeli olarak zorlaşan seviyelerin olacağı bu seviyelerde küçük değişimler yaratarak insanların hem sıkılmasını önleyecek hem de onlara farklı deneyimler yaşatacağız. Dolayısıyla onları olabildiğince uzun vadeli oyunda tutmayı ve sonrasında da tekrar dönüp devam etme isteğini uyandırmayı hedef alan bir plan kurgulayacağız. 
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Mobilde optimize bir şekilde çalışabilecek.
+- Leveller halinde ilerleyecek.
+- Belirli levellerde arka plan değişecek.
+- Leveller ilerledikçe karakterimiz(ourbird) değiştirilebilecek.
+- Engellerden oluşturulmuş platformun aşılması gerekecek.
+- Ekstra özellikleri süreç içerisinde belirleyeceğiz.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Çocuklar.
+- Boş vaktini oyun oynayarak değerlendirmek isteyenler.
+- Standart saatlerde çalışıp toplu taşıma kullanan insanlar.
+- Seyahat eden bütün hedef kitlemiz.
+- 10 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
